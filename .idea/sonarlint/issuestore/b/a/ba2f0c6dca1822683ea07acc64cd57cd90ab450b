@@ -1,0 +1,9 @@
+
+‡squid:S4165"dRemove this useless assignment; "nombre" already holds the assigned value along all execution paths.(´ú´Üøÿÿÿÿ8ÆÛîÓ-
+…squid:S4165"gRemove this useless assignment; "notaFinal" already holds the assigned value along all execution paths.(ØÉ©8ÆÛîÓ-
+Vsquid:S1854K"8Remove this useless assignment to local variable "notP".(âƒ¹8Èö›îÓ-
+Šsquid:S4165"gRemove this useless assignment; "documento" already holds the assigned value along all execution paths.(’‘¡öûÿÿÿÿ8ÆÛîÓ-
+e$squid:AssignmentInSubExpressionCheckK".Extract the assignment out of this expression.(âƒ¹8Èö›îÓ-
+squid:S4165"cRemove this useless assignment; "nota2" already holds the assigned value along all execution paths.(ŒÕÁ‘8ÆÛîÓ-
+squid:S4165"cRemove this useless assignment; "nota1" already holds the assigned value along all execution paths.(Üö8ÆÛîÓ-
+†squid:S4165"cRemove this useless assignment; "nota3" already holds the assigned value along all execution paths.(ñ¶øÇüÿÿÿÿ8ÆÛîÓ-

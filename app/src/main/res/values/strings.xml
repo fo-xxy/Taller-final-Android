@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sabes</string>
+    <string name="lbltitulo">Bienvenido</string>
+    <string name="btncalculoMatematico">Cálculo Matemático</string>
+    <string name="btnculturaGeneral">Cultura General</string>
+</resources>

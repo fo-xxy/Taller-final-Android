@@ -1,0 +1,10 @@
+
+j$squid:AssignmentInSubExpressionCheckM".Extract the assignment out of this expression.(ра«Ўъ€€€€8р®ин”-
+j$squid:AssignmentInSubExpressionCheckM".Extract the assignment out of this expression.(ра«Ўъ€€€€8р®ин”-
+Еsquid:S4165"gRemove this useless assignment; "notaFinal" already holds the assigned value along all execution paths.(ЎЮ…©8–√бн”-
+Кsquid:S4165"gRemove this useless assignment; "documento" already holds the assigned value along all execution paths.(ТС°цы€€€€8–√бн”-
+Жsquid:S4165"cRemove this useless assignment; "nota3" already holds the assigned value along all execution paths.(сґш«ь€€€€8–√бн”-
+Зsquid:S4165"dRemove this useless assignment; "nombre" already holds the assigned value along all execution paths.(іъі№ш€€€€8–√бн”-
+Бsquid:S4165"cRemove this useless assignment; "nota1" already holds the assigned value along all execution paths.(О№цБ8–√бн”-
+Zsquid:S1854M"7Remove this useless assignment to local variable "not".(ра«Ўъ€€€€8Эекн”-
+Бsquid:S4165"cRemove this useless assignment; "nota2" already holds the assigned value along all execution paths.(М’ЅС8–√бн”-
